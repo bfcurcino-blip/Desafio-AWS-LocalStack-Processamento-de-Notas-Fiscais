@@ -1,6 +1,6 @@
 # Desafio AWS LocalStack - Executando Tarefas Automatizadas
 
-## Descrição do Desafio
+## Descrição do Projeto
 
 Este desafio tem como objetivo simular uma arquitetura serverless de forma local, utilizando o **LocalStack** para emular os principais serviços da **AWS**, como: **S3, Lambda e DynamoDB.**
 
