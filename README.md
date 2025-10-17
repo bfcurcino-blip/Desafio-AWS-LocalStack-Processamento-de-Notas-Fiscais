@@ -2,9 +2,9 @@
 
 ## Descrição do Projeto
 
-Este desafio tem como objetivo simular uma arquitetura serverless de forma local, utilizando o **LocalStack** para emular os principais serviços da **AWS**, como: **S3, Lambda e DynamoDB.**
+Este projeto tem como objetivo simular uma arquitetura serverless de forma local, utilizando o **LocalStack** para emular os principais serviços da **AWS**, como: **S3, Lambda e DynamoDB.**
 
-Inspirado no tema *“Executando Tarefas Automatizadas com Lambda Function e S3”,* do programa *Santander Code Girls 2025 | AWS Cloud Foundations,* oferecido pela *DIO,* o desafio demonstra, na prática, como automatizar o processamento de dados por meio da integração entre esses serviços.
+Inspirado no tema *“Executando Tarefas Automatizadas com Lambda Function e S3”,* do programa *Santander Code Girls 2025 | AWS Cloud Foundations,* oferecido pela *DIO,* o projeto demonstra, na prática, como automatizar o processamento de dados por meio da integração entre esses serviços.
 
 A iniciativa faz parte do Desafio do Módulo 11 – Automação de Tarefas com DevOps na AWS, e tem como objetivo mostrar, de maneira prática, como reproduzir o funcionamento de aplicações em nuvem AWS em ambiente local, proporcionando aprendizado e experimentação sem custos de infraestrutura.
 
