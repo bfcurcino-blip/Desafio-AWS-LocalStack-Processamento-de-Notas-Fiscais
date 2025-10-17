@@ -217,4 +217,5 @@ O projeto foi concluído com sucesso, com o LocalStack devidamente configurado, 
 
 ## Por
 **Bianca Curcino**
+
 Projeto desenvolvido como parte prática de estudos sobre AWS e LocalStack e automação com DevOps.
