@@ -1,4 +1,4 @@
-# Desafio Módulo 11 - Executando Tarefas Automatizadas
+# Desafio AWS LocalStack - Executando Tarefas Automatizadas
 
 ## Descrição do Desafio
 
